@@ -1,1 +1,6 @@
 data/
+tbi/
+.env
+playground.ipynb
+*.info
+.vscode/
